@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0069-sqrtx) |
+| [0374-guess-number-higher-or-lower](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0374-guess-number-higher-or-lower) |
 ## Math
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1480-running-sum-of-1d-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
