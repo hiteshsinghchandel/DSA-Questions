@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0374-guess-number-higher-or-lower) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Simulation
 |  |
