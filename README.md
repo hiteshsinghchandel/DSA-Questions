@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0374-guess-number-higher-or-lower) |
 ## Math
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0374-guess-number-higher-or-lower) |
 ## Two Pointers
 |  |
