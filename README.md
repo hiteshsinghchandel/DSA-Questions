@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0059-spiral-matrix-ii) |
 | [1920-build-array-from-permutation](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0059-spiral-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
