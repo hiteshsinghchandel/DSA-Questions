@@ -8,9 +8,8 @@ class Solution {
             while(s<=e){
                 int m = s+(e-s)/2;
                 if(numbers[m]==x){
-                    ans[0] = i+1;
-                    ans[1] = m+1;
-                    return ans;
+                   
+                    return new int[]{i+1,m+1};
                 }else if(numbers[m]>x){
                     e=m-1;
                 }else{
