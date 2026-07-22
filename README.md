@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
@@ -107,5 +108,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
