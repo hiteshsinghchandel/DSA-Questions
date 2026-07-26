@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0367-valid-perfect-square) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0645-set-mismatch) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0067-add-binary) |
 | [1108-defanging-an-ip-address](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1678-goal-parser-interpretation) |
 <!---LeetCode Topics End-->
