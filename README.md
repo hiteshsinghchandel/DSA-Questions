@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0832-flipping-an-image) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1920-build-array-from-permutation) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0067-add-binary) |
+| [0832-flipping-an-image](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -74,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0832-flipping-an-image](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0832-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0832-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
