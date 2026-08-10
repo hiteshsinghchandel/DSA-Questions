@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0832-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
