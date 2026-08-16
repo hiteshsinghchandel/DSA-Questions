@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Recursion
 |  |
 | ------- |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 <!---LeetCode Topics End-->
