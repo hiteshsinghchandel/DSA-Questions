@@ -11,7 +11,7 @@ class Solution {
            sum = sum+arr[i];
            long l = i-left+1;
 
-           while (left<=i && (sum*l)>=k){
+           while ((sum*l)>=k){
                sum = sum-arr[left];
                left++;
                l = i-left+1;
