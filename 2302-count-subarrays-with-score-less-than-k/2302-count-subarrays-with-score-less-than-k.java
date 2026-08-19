@@ -1,14 +1,8 @@
 class Solution {
-    public long countSubarrays(int[] nums, long k) {
+    public long countSubarrays(int[] arr, long k) {
         if(k<=1){
             return 0;
-        }
-
-        return sum(nums,k);
-        
-    }
-      static  long sum (int []arr,long k){
-        int left =0;
+        } int left =0;
         long sum = 0;
         long m = 0;
 
@@ -26,5 +20,7 @@ class Solution {
 
 
         }return  m;
+        
     }
-}
+      
+    }
