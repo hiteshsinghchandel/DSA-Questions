@@ -1,5 +1,8 @@
 class Solution {
     public long countSubarrays(int[] nums, long k) {
+        if(k<=1){
+            return 0;
+        }
 
         return sum(nums,k);
         
