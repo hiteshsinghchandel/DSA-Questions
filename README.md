@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1929-concatenation-of-array) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1480-running-sum-of-1d-array) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Interactive
 |  |
 | ------- |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+## Sliding Window
+|  |
+| ------- |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
