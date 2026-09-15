@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0878-nth-magical-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0878-nth-magical-number) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Math
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0509-fibonacci-number) |
+| [0878-nth-magical-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0878-nth-magical-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
@@ -198,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Least Common Multiple
+|  |
+| ------- |
+| [0878-nth-magical-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0878-nth-magical-number) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [0878-nth-magical-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0878-nth-magical-number) |
 <!---LeetCode Topics End-->
