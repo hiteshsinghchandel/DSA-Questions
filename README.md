@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0832-flipping-an-image) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1920-build-array-from-permutation) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0645-set-mismatch) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
