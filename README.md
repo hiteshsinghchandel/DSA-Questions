@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0645-set-mismatch) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0242-valid-anagram) |
 | [1108-defanging-an-ip-address](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
