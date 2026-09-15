@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0059-spiral-matrix-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0242-valid-anagram) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0242-valid-anagram) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0242-valid-anagram) |
 | [1108-defanging-an-ip-address](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1108-defanging-an-ip-address) |
