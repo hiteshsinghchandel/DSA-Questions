@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0832-flipping-an-image) |
+| [0875-koko-eating-bananas](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0875-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0875-koko-eating-bananas) |
 | [0878-nth-magical-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0878-nth-magical-number) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Math
