@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0242-valid-anagram) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -298,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
