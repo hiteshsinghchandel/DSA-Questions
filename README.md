@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0832-flipping-an-image) |
+| [0845-longest-mountain-in-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0845-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0875-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0832-flipping-an-image) |
+| [0845-longest-mountain-in-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Matrix
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0509-fibonacci-number) |
+| [0845-longest-mountain-in-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0845-longest-mountain-in-array) |
 ## String
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/0845-longest-mountain-in-array) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/hiteshsinghchandel/DSA-Questions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Sliding Window
 |  |
